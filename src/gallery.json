@@ -1,0 +1,36 @@
+{
+  "All" : [
+    {
+      "id": 0,
+      "url": "/assets/burger.jpg",
+      "Category": "Food"
+    },       
+    {
+      "id": 1,
+      "url": "/assets/bird.jpg",
+      "Category": "Animals"
+    },    
+    {
+      "id": 2,
+      "url": "/assets/bowl.jpg",
+      "Category": "Objects"
+    },   
+    {
+      "id": 3,
+      "url": "/assets/frenchie.jpg",
+      "Category": "Animals"
+    },  
+    {
+      "id": 4,
+      "url": "/assets/Object1.jpg",
+      "Category": "Objects"
+    },   
+    {
+      "id": 5,
+      "url": "/assets/snow.jpg",
+      "Category": "Nature"
+    }
+    
+  ]
+  
+}
